@@ -1,0 +1,5 @@
+input.test {
+    -webkit-appearance: slider-horizontal;
+       -moz-appearance: slider-horizontal;
+            appearance: slider-horizontal;
+}
